@@ -1,0 +1,10 @@
+species,expected_filename,source_dataset,source_version,source_url,citation,observation_period,coordinate_crs,original_rows,retained_cells,license,checksum,review_status
+funestus,funestus.csv,,,,,,,,,,,TO_COMPLETE
+arabiensis,Arabiensis.csv,,,,,,,,,,,TO_COMPLETE
+coluzzii,Coluzzi.csv,,,,,,,,,,,TO_COMPLETE
+coustani,Coustani.csv,,,,,,,,,,,TO_COMPLETE
+merus,Merus.csv,,,,,,,,,,,TO_COMPLETE
+quadriannulatus,quadra.csv,,,,,,,,,,,TO_COMPLETE
+stephensi,Stephensi.csv,,,,,,,,,,,TO_COMPLETE
+moucheti,moucheti.csv,,,,,,,,,,,TO_COMPLETE
+nili,nili.csv,,,,,,,,,,,TO_COMPLETE
