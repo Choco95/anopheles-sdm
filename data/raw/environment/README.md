@@ -1,0 +1,1 @@
+Place source single-band GeoTIFFs here and BIO layers in `bio_clim_var/`. See `docs/DATA_GUIDE.md`. Complete `metadata/covariates.csv` from actual product documentation. Raster contents are excluded by `.gitignore`.
