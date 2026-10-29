@@ -1,0 +1,1 @@
+Place nineteen single-band BIO1–BIO19 GeoTIFFs here for the nine-species script. File identifiers must match its parser. This folder must contain one product/version per BIO variable; do not duplicate candidate versions.
