@@ -1,0 +1,27 @@
+# Local data and generated results
+data/**
+!data/**/
+!data/**/README.md
+results/**
+!results/README.md
+logs/**
+!logs/README.md
+
+# R session files and local dependency caches
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+renv/cache/
+
+# Credentials, OS files and local caches
+.Renviron
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+__pycache__/
+*.log
